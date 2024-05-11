@@ -8,5 +8,8 @@ You can get our data set from [baidu disk]().
 # Contact
 zehuiTang - 212022081200027@stu.xhu.edu.cn
 
+# License
+This project is released under the [MIT license](https://github.com/thirteenl/CDMD/LICENSE).
+
 # Citations
 
