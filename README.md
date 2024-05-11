@@ -9,7 +9,7 @@ You can get our data set from [baidu disk]().
 zehuiTang - 212022081200027@stu.xhu.edu.cn
 
 # License
-This project is released under the [MIT license](https://github.com/thirteenl/CDMD/LICENSE).
+This project is released under the [MIT license](https://opensource.org/licenses/MIT).
 
 # Citations
 
